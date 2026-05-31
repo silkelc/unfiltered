@@ -4,7 +4,7 @@
     {
       "name": "static-server",
       "runtimeExecutable": "npx",
-      "runtimeArgs": ["serve", "-l", "3000", "/Users/sille/Desktop/Claude-Projekte/echoes-of-self"],
+      "runtimeArgs": ["serve", "-l", "3000", "/Users/sille/Desktop/Claude-Projekte/unfiltered"],
       "port": 3000
     }
   ]
